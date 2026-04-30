@@ -1,9 +1,9 @@
 ---
-description: An example site for hugo-theme-gallery. Images from Unsplash.
+description: Top 100 images I captured
 #lastmod: 2023-07-05
-title: Hugo Gallery
+title: Gallery
 resources:
-  - src: martin-martz-wRuhOOaG-Z4-unsplash.jpg
+  - src: 20260415_062536.jpg
     params:
       cover: true # cover of the home page is used for OpenGraph cards, etc.
 menus:

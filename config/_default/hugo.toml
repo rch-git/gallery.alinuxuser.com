@@ -1,26 +1,26 @@
-copyright = "© Your Name"
+copyright = "© RC"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
 languageCode = "en"
-timeZone = "Europe/Berlin"
+timeZone = "America/Chicago"
 timeout = "120s"
 title = "Gallery"
 theme = "gallery"
 
 [params]
   defaultTheme = "dark"
-  description = "Example site for hugo-theme-gallery"
-  title = "My Gallery"
+  description = "alinuxuser gallery"
+  title = "Gallery"
   [params.author]
-    email = "user@example.com"
-    name = "Your Name"
+    email = "alinuxuser@fastmail.com"
+    name = "RC"
   [params.socialIcons]
-    facebook = "https://www.facebook.com/"
-    instagram = "https://www.instagram.com/"
-    github = "https://github.com/nicokaiser/hugo-theme-gallery/"
-    youtube = "https://www.youtube.com/"
-    email = "mailto:user@example.com"
+    #facebook = "https://www.facebook.com/"
+    #instagram = "https://www.instagram.com/"
+    #github = "https://github.com/nicokaiser/hugo-theme-gallery/"
+    #youtube = "https://www.youtube.com/"
+    email = "mailto:alinuxuser@fastmail.com"
     #website = "https://example.com"
     #mastodon = "https://example.com"
     #pixelfed = "https://example.com"
@@ -52,9 +52,9 @@ theme = "gallery"
 
 [menu]
   [[menu.footer]]
-    name = "GitHub"
-    url = "https://github.com/nicokaiser/hugo-theme-gallery/"
-    weight = 3
+    name = "Blog"
+    url = "https://alinuxuser.com/"
+    weight = 2
 
 [services]
   [services.rss]
