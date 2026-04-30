@@ -1,6 +1,4 @@
-node_modules/
-public/
-resources/
-.hugo_build.lock
-hugo_stats.json
-content/**/*.jpg
+/public
+/.hugo_build.lock
+*.kate-swp
+.*.kate-swp
