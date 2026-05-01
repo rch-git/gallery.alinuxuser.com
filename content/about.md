@@ -9,4 +9,4 @@ menu:
 
 I created this website to share my favorite pictures that I captured over the years.
 
-If you have an questions or comments, email me at - `alinuxuser@fastmail.com`
+If you have any questions or comments, email me at - `alinuxuser@fastmail.com`
