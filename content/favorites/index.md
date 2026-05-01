@@ -1,8 +1,8 @@
 ---
-description: Top 100 pictures I took
+description: Favorite pictures I took
 menus: "main"
-title: Top 100
-categories: ["top100"]
+title: Favorites
+#categories: ["top100"]
 weight: 3
 params:
   featured: true
