@@ -7,4 +7,4 @@ menu:
     weight: 90
 ---
 
-This is a demonstration site for the Hugo Gallery theme.
+I created this website to share my favorite pictures that I captured over the years.
