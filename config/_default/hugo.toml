@@ -52,9 +52,9 @@ theme = "gallery"
 
 [menu]
   [[menu.footer]]
-    name = "Blog"
-    url = "https://alinuxuser.com/"
-    weight = 2
+    #name = "Blog"
+    #url = "https://alinuxuser.com/"
+    #weight = 2
 
 [services]
   [services.rss]

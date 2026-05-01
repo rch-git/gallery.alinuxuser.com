@@ -1,5 +1,5 @@
 ---
-description: Hello and Welcome
+description: Hello and welcome to my gallery
 #lastmod: 2023-07-05
 title: Gallery
 resources:
