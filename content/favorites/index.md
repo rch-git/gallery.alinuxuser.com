@@ -1,5 +1,5 @@
 ---
-description: Favorite pictures I took
+description: My favorite pictures
 menus: "main"
 title: Favorites
 #categories: ["top100"]
