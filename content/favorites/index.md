@@ -9,7 +9,8 @@ params:
   featured_image: 20260415_062536.jpg
   theme: dark
   sort_order: desc
-  sort_by: Name # Exif.Date
+  #sort_by: Name # Exif.Date
+  sort_by: Params.date
   private: true # do not show in list, only as feature
 resources:
   - src: 20260415_062536.jpg
