@@ -11,7 +11,7 @@ theme = "gallery"
 [params]
   defaultTheme = "dark"
   description = "gallery"
-  title = "gallery"
+  title = "~/gallery"
   [params.author]
     email = "alinuxuser@fastmail.com"
     name = "RC"

@@ -9,6 +9,7 @@ resources:
 menus:
   main:
     name: Home
+    url: https://alinuxuser.com
     weight: -1
 # sub-galleries on list pages are sorted by date and weight (descending)
 #cascade:
