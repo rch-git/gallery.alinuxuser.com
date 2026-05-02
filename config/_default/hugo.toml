@@ -5,13 +5,13 @@ enableRobotsTXT = true
 languageCode = "en"
 timeZone = "America/Chicago"
 timeout = "120s"
-title = "Gallery"
+title = "gallery | alinuxuser"
 theme = "gallery"
 
 [params]
   defaultTheme = "dark"
-  description = "alinuxuser gallery"
-  title = "Gallery"
+  description = "gallery"
+  title = "gallery"
   [params.author]
     email = "alinuxuser@fastmail.com"
     name = "RC"
