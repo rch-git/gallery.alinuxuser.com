@@ -28,6 +28,10 @@ resources:
   - src: 20221127_172800.jpg
     title: Fort Worth, TX. Taken from Amtrak train en route to Austin, TX. <a href="https://maps.app.goo.gl/YEYC5bMmaQ1HXo8S7" style="color:Tomato;" target="_blank">Maps Link</a>
   - src: 20241109_133103.jpg
-    title: Ogden, UT. Hill Aerospace Museum. Taken in November 2024. <a href="https://maps.app.goo.gl/DS9Vb47KWHjZ6xGHA" style="color:Tomato;" target="_blank">Maps Link</a>
+    title: Ogden, UT. Hill Aerospace Museum. Taken in November 2024. Took a detour when I went to KubeCon 2024 in Salt Lake City. <a href="https://maps.app.goo.gl/DS9Vb47KWHjZ6xGHA" style="color:Tomato;" target="_blank">Maps Link</a>
+  - src: 20241109_141421.jpg
+    title: Ogden, UT. Hill Aerospace Museum. Taken in November 2024.
+  - src: 20241109_190953.jpg
+    title: Park City, UT. Taken in November 2024. Stopped by for a night before heading to Richfield, UT before finally heading to SLC. <a href="https://maps.app.goo.gl/4Ro5iTiG3REspLE69" style="color:Tomato;" target="_blank">Maps Link</a>
 ---
 
