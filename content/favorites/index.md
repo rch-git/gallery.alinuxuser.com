@@ -41,6 +41,8 @@ resources:
     title: Bridal Veil Falls, Provo Canyon, Utah. <br/><br/><a href="https://maps.app.goo.gl/ojndem2mKhJrgukJ7" style="color:Tomato;" target="_blank">Maps Link</a>
   - src: 20241110_151627.jpg
     title: Pahvant Trail Head, Richfield, UT.<br/><br/>This is my best guess on the location. <a href="https://maps.app.goo.gl/f2HNUwKS8SjjfUoWA" style="color:Tomato;" target="_blank">Maps Link</a>
+  - src: 20241110_162920.jpg
+    title: Pahvant Trail Head, Richfield, UT.<br/><br/>This is my best guess on the location. <a href="https://maps.app.goo.gl/f2HNUwKS8SjjfUoWA" style="color:Tomato;" target="_blank">Maps Link</a>
   - src: 20241115_163130.jpg
     title: Salt Lake City, UT. Taken in November 2024, at the Mormon Temple.
 ---
