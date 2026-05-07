@@ -45,5 +45,8 @@ resources:
     title: Pahvant Trail Head, Richfield, UT.<br/><br/>This is my best guess on the location. <a href="https://maps.app.goo.gl/f2HNUwKS8SjjfUoWA" style="color:Tomato;" target="_blank">Maps Link</a>
   - src: 20241115_163130.jpg
     title: Salt Lake City, UT. Taken in November 2024, at the Mormon Temple.
+  - src: 20251024_105906.jpg
+    title: The Growling Place, Lisle, IL. <br/><br/>Taken on October 2025. My uncle passed a week prior to my visit. It was a tough time, but I am glad I went. <br/><br/><a href="https://maps.app.goo.gl/E5yYbJCcAYvSUhmh6" style="color:Tomato;" target="_blank">Maps Link</a>
+  - src: 20260309_194426.jpg
+    title: Norman, OK.<br/><br/>Saw this vivid sunset as I walked out of WalMart. This is not made with AI. This is a real picture.
 ---
-
