@@ -49,4 +49,8 @@ resources:
     title: The Growling Place, Lisle, IL. <br/><br/>Taken on October 2025. My uncle passed a week prior to my visit. It was a tough time, but I am glad I went. <br/><br/><a href="https://maps.app.goo.gl/E5yYbJCcAYvSUhmh6" style="color:Tomato;" target="_blank">Maps Link</a>
   - src: 20260309_194426.jpg
     title: Norman, OK.<br/><br/>Saw this vivid sunset as I walked out of WalMart. This is not made with AI. This is a real picture.
+  - src: 20260415_062546.jpg
+    title: Charleston, SC. <br/><br/>Taken pretty early in the morning.<br/><br/><a href="https://maps.app.goo.gl/eqaCkCM9jZFPczL58" style="color:Tomato;" target="_blank">Maps Link</a>
+  - src: 20260415_063402.jpg
+    title: Charleston, SC. <br/><br/>Confederate Defenders of Charleston. I am surprised they didn't tear down these statues. Glad I got to see them before they are potentially destroyed. <br/><br/><a href="https://maps.app.goo.gl/imKLfGgxRiQ4Ue2E6" style="color:Tomato;" target="_blank">Maps Link</a>
 ---
