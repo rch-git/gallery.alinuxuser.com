@@ -53,4 +53,16 @@ resources:
     title: Charleston, SC. <br/><br/>Taken pretty early in the morning.<br/><br/><a href="https://maps.app.goo.gl/eqaCkCM9jZFPczL58" style="color:Tomato;" target="_blank">Maps Link</a>
   - src: 20260415_063402.jpg
     title: Charleston, SC. <br/><br/>Confederate Defenders of Charleston. I am surprised they didn't tear down these statues. Glad I got to see them before they are potentially destroyed. <br/><br/><a href="https://maps.app.goo.gl/imKLfGgxRiQ4Ue2E6" style="color:Tomato;" target="_blank">Maps Link</a>
+  - src: 20260415_063450.jpg
+    title: Charleston, SC. <br/><br/><a href="https://maps.app.goo.gl/NCYAK4cbrLKnvvRV9" style="color:Tomato;" target="_blank">Maps Link</a>
+  - src: 20260415_065718.jpg
+    title: Charleston, SC. <br/><br/><a href="https://maps.app.goo.gl/fKRKFR65eLKocGZF7" style="color:Tomato;" target="_blank">Maps Link</a>
+  - src: _DSC0064.JPG
+    title: San Antonio, TX. <br/><br/><a href="https://maps.app.goo.gl/WdjEnd7F3FrveUFt7" style="color:Tomato;" target="_blank">Maps Link</a>
+  - src: _DSC0075.JPG
+    title: The Alamo, San Antonio, TX. <br/><br/>Went for a walk late at night to get some pictures. I probably wouldn't do it these days in a big city. <a href="https://maps.app.goo.gl/W4xxS7oKDkzvJnARA" style="color:Tomato;" target="_blank">Maps Link</a>
+  - src: _DSC0093.jpg
+    title: Flying into Las Vegas, NV. I believe this picture was taken in 2013.
+  - src: _DSC0105.JPG
+    title: Royalty Coins Inc, San Antonio, TX. <br/><br/><a href="https://maps.app.goo.gl/QFcq7waXihnJ78rv7" style="color:Tomato;" target="_blank">Maps Link</a>
 ---
