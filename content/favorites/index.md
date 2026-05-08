@@ -65,4 +65,16 @@ resources:
     title: Flying into Las Vegas, NV. I believe this picture was taken in 2013.
   - src: _DSC0105.JPG
     title: Royalty Coins Inc, San Antonio, TX. <br/><br/><a href="https://maps.app.goo.gl/QFcq7waXihnJ78rv7" style="color:Tomato;" target="_blank">Maps Link</a>
+  - src: _DSC0112.JPG
+    title: Newport Beach, CA. Taken in 2018. I went there on a work trip. This was taken on a dinner cruise.
+  - src: _DSC0114.JPG
+    title: Stillwater, OK. I took this picture from the top floor of the library.
+  - src: _DSC0127.JPG
+    title: Chicago, IL. Taken near at the North Avenue Beach Pier. <br/><br/><a href="https://maps.app.goo.gl/yTHFDBpYhYgMqb7B9" style="color:Tomato;" target="_blank">Maps Link</a>
+  - src: _DSC0134.JPG
+    title: Newport Beach, CA. Taken in 2018. I went there on a work trip. This was taken on a dinner cruise.
+  - src: _DSC0158.JPG
+    title: San Antonio, TX
+  - src: _DSC0161.JPG
+    title: Chicago, IL. Taken from a building located near the intersection of Grand Ave and N. Dearborn St.
 ---
