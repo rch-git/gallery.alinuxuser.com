@@ -77,4 +77,42 @@ resources:
     title: San Antonio, TX
   - src: _DSC0161.JPG
     title: Chicago, IL. Taken from a building located near the intersection of Grand Ave and N. Dearborn St.
+  - src: _DSC0164.JPG
+    title: Chicago, IL. Taken from a building located near the intersection of Grand Ave and N. Dearborn St.
+  - src: _DSC0177.JPG
+    title: San Antonio, TX. Somewhere on the riverwalk near downtown.
+  - src: _DSC0180.JPG
+    title: Chicago, IL. Taken from a building located near the intersection of Grand Ave and N. Dearborn St.
+  - src: _DSC0230.JPG
+    title: San Antonio, TX. Google maps shows a parking lot in front of the building. Looks like things changed over time.<br/><br/><a href="https://maps.app.goo.gl/ZUzwhneCbUggs8dc6" style="color:Tomato;" target="_blank">Maps Link</a>
+  - src: _DSC0240.JPG
+    title: Las Vegas, NV. Taken inside The Venetian.
+  - src: _DSC0275.JPG
+    title: Cloud Gate, Chicago, IL.<br/><br/><a href="https://maps.app.goo.gl/eqMmPxK4Gf6oxas29" style="color:Tomato;" target="_blank">Maps Link</a>
+  - src: _DSC0303.JPG
+    title: Trump International Hotel & Tower, Chicago, IL. Politics aside, this is a magnificent structure.<br/><br/><a href="https://maps.app.goo.gl/SkyJNxiRhihDy7g19" style="color:Tomato;" target="_blank">Maps Link</a>
+  - src: _DSC0352.JPG
+    title: Luxor Hotel & Casino, Las Vegas, NV.<br/><br/><a href="https://maps.app.goo.gl/TVd2N9JCKeoMxwCh6" style="color:Tomato;" target="_blank">Maps Link</a>
+  - src: _DSC0395.JPG
+    title: Monument Point, Laguna Beach, CA.<br/><br/><a href="https://maps.app.goo.gl/y7DT4p5cUpohgvNw5" style="color:Tomato;" target="_blank">Maps Link</a>
+  - src: _DSC0477.JPG
+    title: A house in Lagune Beach, CA.
+  - src: _DSC0515.JPG
+    title: Shopping plaza, Laguna Beach, CA.<br/><br/><a href="https://maps.app.goo.gl/pmcVDZRxpeBFiGg29" style="color:Tomato;" target="_blank">Maps Link</a>
+  - src: _DSC0531.JPG
+    title: Mansion, Laguna Beach, CA.
+  - src: _DSC0543.JPG
+    title: Mansion, Laguna Beach, CA.
+  - src: _DSC0548.JPG
+    title: Las Vegas, NV.<br/><br/><a href="https://maps.app.goo.gl/LitxeEmRaMT7LV4k9" style="color:Tomato;" target="_blank">Maps Link</a>
+  - src: _DSC0552.JPG
+    title: Las Vegas, NV.<br/><br/><a href="https://maps.app.goo.gl/EUdDwyGRhePr89Rq7" style="color:Tomato;" target="_blank">Maps Link</a>
+  - src: _DSC0594.JPG
+    title: Pirate Tower, Laguna Beach, CA.<br/><br/><a href="https://maps.app.goo.gl/gheAZom2WeV4deEm8" style="color:Tomato;" target="_blank">Maps Link</a>
+  - src: _DSC0596.JPG
+    title: Coastline, Laguna Beach, CA.
+  - src: _DSC0615.JPG
+    title: Laguna Beach, CA.
+  - src: _DSC0781.JPG
+    title: Las Vegas, NV.<br/><br/><a href="https://maps.app.goo.gl/ePJAJV3sMHEgEq866" style="color:Tomato;" target="_blank">Maps Link</a>
 ---
